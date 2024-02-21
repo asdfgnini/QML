@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Sekiro">
+ 	<file>qmldir</file>
+        <file>QML/Circle.qml</file>
+        <file>QML/GlobalConfig.qml</file>
+        <file>QML/TDragRect.qml</file>
+        <file>QML/TMoveArea.qml</file>
+        <file>QML/TResizeBorder.qml</file>
+        <file>QML/TTextBtn.qml</file>
+    </qresource>
+</RCC>
