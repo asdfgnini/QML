@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-dde86f805b40bfb25351.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "demo02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02-Release-99fa5d5c775fc61dad44.json",
+					"name" : "demo02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02_autogen-Release-fa1108f9544c6cf01167.json",
+					"name" : "demo02_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo02_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo02_autogen_timestamp_deps-Release-2161ff3473c2842e2469.json",
+					"name" : "demo02_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22231/Desktop/Test/demo02/build-demo02-Desktop_Qt_5_15_2_MSVC2019_64bit-Release",
+		"source" : "C:/Users/22231/Desktop/TaoQuick/demo02/demo02"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

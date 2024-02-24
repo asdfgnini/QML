@@ -1,11 +1,18 @@
 <RCC>
     <qresource prefix="/Sekiro">
- 	<file>qmldir</file>
-        <file>QML/Circle.qml</file>
-        <file>QML/GlobalConfig.qml</file>
-        <file>QML/TDragRect.qml</file>
-        <file>QML/TMoveArea.qml</file>
-        <file>QML/TResizeBorder.qml</file>
-        <file>QML/TTextBtn.qml</file>
+        <file>qmldir</file>
+        <file>QML/SekGlobalConfig.qml</file>
+        <file>QML/SekButton/SekButton.qml</file>
+        <file>QML/SekButton/SekButton_blue.qml</file>
+        <file>QML/SekMisc/SekDragRect.qml</file>
+        <file>QML/SekMisc/SekMoveArea.qml</file>
+        <file>QML/SekMisc/SekResizeBorder.qml</file>
+        <file>QML/SekMisc/SekText.qml</file>
+        <file>QML/SekMisc/SekTooltip.qml</file>
+        <file>QML/SekMisc/SekTransArea.qml</file>
+        <file>QML/SekButton/SekButton_gradient.qml</file>
+        <file>QML/SekButton/SekButton_red.qml</file>
+        <file>QML/SekButton/SekButton_White.qml</file>
     </qresource>
+    <qresource prefix="/"/>
 </RCC>

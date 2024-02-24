@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="SekiroControls.qml">../Sekiro/SekiroControls.qml</file>
+        <file alias="TDragRect.qml">../Sekiro/TDragRect.qml</file>
+        <file alias="TMoveArea.qml">../Sekiro/TMoveArea.qml</file>
+        <file alias="TResizeBorder.qml">../Sekiro/TResizeBorder.qml</file>
+        <file alias="TTextBtn.qml">../Sekiro/TTextBtn.qml</file>
+        <file alias="Circle.qml">../Sekiro/Circle.qml</file>
+        <file alias="GlobalConfig.qml">../Sekiro/GlobalConfig.qml</file>
+    </qresource>
+</RCC>

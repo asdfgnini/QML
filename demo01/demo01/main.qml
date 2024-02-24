@@ -5,8 +5,7 @@ import QtQuick.Controls 2.15
 import Sekiro 1.0
 
 
-
-Window {
+ApplicationWindow {
     width: 640
     height: 480
     visible: true
@@ -19,12 +18,12 @@ Window {
         height: 100
         color:"steelblue"
 
-        TMoveArea{
+        SekMoveArea{
             control:parent
             anchors.fill: parent
         }
 
-        TResizeBorder{
+        SekResizeBorder{
             control:parent
             x:parent.x
             y:parent.y
@@ -34,6 +33,37 @@ Window {
         }
     }
 
+    SekButton_blue{
+        text: "点击"
+        tipText: "打印OK"
+
+        anchors.centerIn: parent
+        onClicked: {
+            console.log("OK")
+        }
+    }
+
+    SekButton_red{
+        id:red_button
+        text: "点击"
+        tipText: "打印OK"
+
+        onClicked: {
+            console.log("OK")
+        }
+    }
+    SekButton_gradient{
+        anchors.left: red_button.right
+        anchors.leftMargin: 20
+        text: "点击"
+
+    }
+
+    function get()
+    {
+        var xhr = new XMLHttpRequest();
+
+    }
 
 
 }

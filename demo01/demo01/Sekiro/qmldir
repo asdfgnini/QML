@@ -1,9 +1,14 @@
 module Sekiro
-Circle 1.0 QML/Circle.qml
-GlobalConfig 1.0 	QML/GlobalConfig.qml
-TDragRect 1.0 QML/TDragRect.qml
-TMoveArea 1.0 QML/TMoveArea.qml
-TResizeBorder 1.0 QML/TResizeBorder.qml
-TTextBtn 1.0 	QML/TTextBtn.qml
-
+SekDragRect 1.0 QML/SekMisc/SekDragRect.qml
+SekMoveArea 1.0 QML/SekMisc/SekMoveArea.qml
+SekResizeBorder 1.0 QML/SekMisc/SekResizeBorder.qml
+SekText 1.0 QML/SekMisc/SekText.qml
+SekTooltip 1.0 QML/SekMisc/SekTooltip.qml
+SekTransArea 1.0 QML/SekMisc/SekTransArea.qml
+SekButton 1.0 QML/SekButton/SekButton.qml
+SekButton_blue 1.0 QML/SekButton/SekButton_blue.qml
+SekButton_gradient 1.0 QML/SekButton/SekButton_gradient.qml
+SekButton_red 1.0 QML/SekButton/SekButton_red.qml
+SekButton_White 1.0 QML/SekButton/SekButton_White.qml
+singleton SekGlobalConfig 1.0 QML/SekGlobalConfig.qml
 

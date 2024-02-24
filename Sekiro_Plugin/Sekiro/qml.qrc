@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>QML/SekGlobalConfig.qml</file>
+        <file>QML/SekButton/SekButton.qml</file>
+        <file>QML/SekButton/SekButton_blue.qml</file>
+        <file>QML/SekMisc/SekDragRect.qml</file>
+        <file>QML/SekMisc/SekMoveArea.qml</file>
+        <file>QML/SekMisc/SekResizeBorder.qml</file>
+        <file>QML/SekMisc/SekText.qml</file>
+        <file>QML/SekMisc/SekTooltip.qml</file>
+        <file>QML/SekMisc/SekTransArea.qml</file>
+        <file>QML/SekButton/SekButton_red.qml</file>
+        <file>QML/SekButton/SekButton_White.qml</file>
+        <file>QML/SekButton/SekButton_gradient.qml</file>
+        <file>QML/SekButton/SekButton_Image.qml</file>
+        <file>QML/SekImage/SekImage.qml</file>
+        <file>QML/qmldir</file>
+        <file>Imgae/btn_close_hovered.png</file>
+        <file>QML/SekButton/SekButton_ImageColorOverlay.qml</file>
+        <file>QML/SekButton/SekTextButton.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+# ninja log v5
+10	170	7303173519620311	demo03_autogen/timestamp	aac1e3ef2a1fe544
+77	125	7303174048164957	CMakeFiles/demo03.dir/demo03_autogen/EWIEGA46WW/qrc_qml.cpp.obj	975a68be68ccd52c
+10	170	7303173519620311	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/timestamp	aac1e3ef2a1fe544
+10	170	7303173519620311	demo03_autogen/mocs_compilation.cpp	aac1e3ef2a1fe544
+10	170	7303173519620311	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/mocs_compilation.cpp	aac1e3ef2a1fe544
+4	76	7303174047668171	demo03_autogen/EWIEGA46WW/qrc_qml.cpp	da728e7a8f2ccd8a
+263	308	7303170848121157	CMakeFiles/demo03.dir/demo03_autogen/mocs_compilation.cpp.obj	a30fd74e52847f4d
+4	76	7303174047668171	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/EWIEGA46WW/qrc_qml.cpp	da728e7a8f2ccd8a
+267	1048	7303170855498594	CMakeFiles/demo03.dir/main.cpp.obj	fda5a137511bc90d
+125	269	7303174049296924	demo03.exe	5d3ec1816260f405
+1	273	7304840889055876	build.ninja	d185d64db3dd9dff
+5	166	7304840892741105	demo03_autogen/timestamp	aac1e3ef2a1fe544
+5	166	7304840892741105	demo03_autogen/mocs_compilation.cpp	aac1e3ef2a1fe544
+5	166	7304840892741105	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/timestamp	aac1e3ef2a1fe544
+5	166	7304840892741105	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/mocs_compilation.cpp	aac1e3ef2a1fe544
+166	239	7304840893451938	demo03_autogen/EWIEGA46WW/qrc_qml.cpp	da728e7a8f2ccd8a
+166	239	7304840893451938	C:/Users/22231/Desktop/Test/demo03/build-demo03-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/demo03_autogen/EWIEGA46WW/qrc_qml.cpp	da728e7a8f2ccd8a
+239	292	7304840894000728	CMakeFiles/demo03.dir/demo03_autogen/EWIEGA46WW/qrc_qml.cpp.obj	975a68be68ccd52c
+293	461	7304840895350192	demo03.exe	5d3ec1816260f405

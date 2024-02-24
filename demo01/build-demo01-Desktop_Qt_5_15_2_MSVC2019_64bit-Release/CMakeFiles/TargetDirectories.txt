@@ -1,0 +1,8 @@
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/demo01.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/install.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/install/local.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/demo01_autogen_timestamp_deps.dir
+C:/Users/22231/Desktop/QML/demo01/build-demo01-Desktop_Qt_5_15_2_MSVC2019_64bit-Release/CMakeFiles/demo01_autogen.dir
