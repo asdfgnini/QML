@@ -1,0 +1,10 @@
+module Sekiro
+linktarget Sekiroplugin
+optional plugin Sekiroplugin
+classname SekiroPlugin
+typeinfo Sekiro.qmltypes
+prefer :/qt/qml/Sekiro/
+SekiroButton 1.0 Qt6/SekiroButton.qml
+SekFocusRectangle 1.0 Qt6/SekFocusRectangle.qml
+SekText 1.0 Qt6/SekText.qml
+

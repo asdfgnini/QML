@@ -1,0 +1,69 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Sekiro/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "sekiro_autogen_timestamp_deps::@3699fcf18bae36d76d42",
+	"isGeneratorProvided" : true,
+	"name" : "sekiro_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "Sekiro",
+		"source" : "Sekiro"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/CMakeFiles/sekiro_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/CMakeFiles/sekiro_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/.rcc/qmlcache/sekiro_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

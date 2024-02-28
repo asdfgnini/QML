@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/Sekiro/">
+    <file alias="SekiroControls.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/SekiroControls.qml</file>
+    <file alias="Qt6/controls/SekClip.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekClip.qml</file>
+    <file alias="Qt6/controls/SekFocusRectangle.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekFocusRectangle.qml</file>
+    <file alias="Qt6/controls/SekIcon.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekIcon.qml</file>
+    <file alias="Qt6/controls/SekIconButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekIconButton.qml</file>
+    <file alias="Qt6/controls/SekiroButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekiroButton.qml</file>
+    <file alias="Qt6/controls/SekiroControls.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekiroControls.qml</file>
+    <file alias="Qt6/controls/SekLoader.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekLoader.qml</file>
+    <file alias="Qt6/controls/SekLoadingButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekLoadingButton.qml</file>
+    <file alias="Qt6/controls/SekProgressButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekProgressButton.qml</file>
+    <file alias="Qt6/controls/SekProgressRing.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekProgressRing.qml</file>
+    <file alias="Qt6/controls/SekShadow.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekShadow.qml</file>
+    <file alias="Qt6/controls/SekText.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekText.qml</file>
+    <file alias="Qt6/controls/SekTextButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekTextButton.qml</file>
+    <file alias="Qt6/controls/SekToggleButton.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekToggleButton.qml</file>
+    <file alias="Qt6/controls/SekTooltip.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/controls/SekTooltip.qml</file>
+    <file alias="Font/Segoe_Fluent_Icons.ttf">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/Font/Segoe_Fluent_Icons.ttf</file>
+  </qresource>
+</RCC>
+

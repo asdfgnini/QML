@@ -1,0 +1,19 @@
+module Sekiro
+linktarget sekiro
+optional plugin sekiro
+classname SekiroPlugin
+typeinfo plugins.qmltypes
+prefer :/qt/qml/Sekiro/
+SekClip 1.0 Qt6/SekClip.qml
+SekDropDownButton 1.0 Qt6/SekDropDownButton.qml
+SekFocusRectangle 1.0 Qt6/SekFocusRectangle.qml
+SekIcon 1.0 Qt6/SekIcon.qml
+SekLoadingButton 1.0 Qt6/SekLoadingButton.qml
+SekProgressButton 1.0 Qt6/SekProgressButton.qml
+SekProgressRing 1.0 Qt6/SekProgressRing.qml
+SekText 1.0 Qt6/SekText.qml
+SekTextButton 1.0 Qt6/SekTextButton.qml
+SekToggleButton 1.0 Qt6/SekToggleButton.qml
+SekiroButton 1.0 Qt6/SekiroButton.qml
+SekiroControls 1.0 Qt6/SekiroControls.qml
+

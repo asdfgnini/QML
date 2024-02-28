@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qt/qml/Sekiro/">
+    <file alias="Qt6/SekClip.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekClip.qml</file>
+    <file alias="Qt6/SekDropDownButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekDropDownButton.qml</file>
+    <file alias="Qt6/SekFocusRectangle.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekFocusRectangle.qml</file>
+    <file alias="Qt6/SekIcon.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekIcon.qml</file>
+    <file alias="Qt6/SekLoadingButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekLoadingButton.qml</file>
+    <file alias="Qt6/SekProgressButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekProgressButton.qml</file>
+    <file alias="Qt6/SekProgressRing.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekProgressRing.qml</file>
+    <file alias="Qt6/SekText.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekText.qml</file>
+    <file alias="Qt6/SekTextButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTextButton.qml</file>
+    <file alias="Qt6/SekToggleButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekToggleButton.qml</file>
+    <file alias="Qt6/SekiroButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekiroButton.qml</file>
+    <file alias="Qt6/SekiroControls.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekiroControls.qml</file>
+  </qresource>
+</RCC>
+
