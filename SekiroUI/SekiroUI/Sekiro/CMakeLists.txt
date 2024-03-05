@@ -80,7 +80,30 @@ qt_add_library(${PROJECT_NAME} SHARED
     Qt6/SekLoadingButton.qml
     Qt6/SekProgressRing.qml
     Qt6/SekDropDownButton.qml
-    Qt6/SekIcon.qml)
+    Qt6/SekIcon.qml
+    Qt6/SekMenu.qml
+    Qt6/SekShadow.qml
+    Qt6/SekMenuItem.qml
+    Qt6/SekLoader.qml
+    Qt6/SekRadioButtons.qml
+    Qt6/SekRadioButton.qml
+    Qt6/SekTextBox.qml
+    Qt6/SekTextBoxBackground.qml
+    Qt6/SekTextBoxMenu.qml
+    Qt6/SekIconButton.qml
+    Qt6/SekTooltip.qml
+    SekViewModel.cpp SekViewModel.h
+    Qt6/ViewModel/TextBoxViewModel.qml
+    Qt6/SekPasswordBox.qml
+    Qt6/SekMultilineTextBox.qml
+    Qt6/SekAutoSuggestBox.qml
+    Qt6/SekControl.qml
+    Qt6/SekScrollBar.qml
+    Qt6/SekSpinBox.qml
+    Qt6/SekToggleSwitch.qml
+    Qt6/SekCopyableText.qml
+    Qt6/SekArea.qml
+)
 
 qt_add_qml_module(${PROJECT_NAME}
     PLUGIN_TARGET ${PLUGIN_TARGET_NAME}

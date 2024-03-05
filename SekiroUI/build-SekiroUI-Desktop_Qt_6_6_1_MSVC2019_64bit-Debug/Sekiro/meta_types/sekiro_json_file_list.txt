@@ -5,5 +5,6 @@ C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64b
 C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/../EWIEGA46WW/moc_SekTextStyle.cpp.json
 C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/../EWIEGA46WW/moc_SekTheme.cpp.json
 C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/../EWIEGA46WW/moc_SekTools.cpp.json
+C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/../EWIEGA46WW/moc_SekViewModel.cpp.json
 C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/../EWIEGA46WW/moc_sekiro.cpp.json
 C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro/sekiro_autogen/include/sekiro_SekiroPlugin.moc.json

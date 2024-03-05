@@ -1,0 +1,83 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Example/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "SekExample_autogen_timestamp_deps::@358d8db68dd7622887b4"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SekExample_qmlimportscan::@358d8db68dd7622887b4"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SekExample_tooling::@358d8db68dd7622887b4"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "SekExample_autogen::@358d8db68dd7622887b4",
+	"isGeneratorProvided" : true,
+	"name" : "SekExample_autogen",
+	"paths" : 
+	{
+		"build" : "Example",
+		"source" : "Example"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Example/CMakeFiles/SekExample_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Example/CMakeFiles/SekExample_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Example/SekExample_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

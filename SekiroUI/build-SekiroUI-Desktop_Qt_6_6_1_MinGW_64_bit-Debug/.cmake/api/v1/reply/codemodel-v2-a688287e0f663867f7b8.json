@@ -1,0 +1,294 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Example",
+					"jsonFile" : "directory-Example-Debug-fcb5ceb733991faee781.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Example",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"build" : "Sekiro",
+					"jsonFile" : "directory-Sekiro-Debug-a5df85ab64f04d10c901.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Sekiro",
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SekiroUI"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SekExample",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "sekiro",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample-Debug-7e6ab80f4c0e430329ab.json",
+					"name" : "SekExample",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_autogen::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_autogen-Debug-9a1977782b3235a5a8c3.json",
+					"name" : "SekExample_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_autogen_timestamp_deps::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_autogen_timestamp_deps-Debug-4db5a5688932751cdc33.json",
+					"name" : "SekExample_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_qmlimportscan::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_qmlimportscan-Debug-95b20f0132083f2e36b3.json",
+					"name" : "SekExample_qmlimportscan",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_qmllint::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_qmllint-Debug-0cc7ce537061a35c1f24.json",
+					"name" : "SekExample_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_qmllint_json::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_qmllint_json-Debug-1d366754e9f166f05dac.json",
+					"name" : "SekExample_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_qmllint_module::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_qmllint_module-Debug-92100a4a8683d956ecfe.json",
+					"name" : "SekExample_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_qmltyperegistration::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_qmltyperegistration-Debug-4f4b23e904356fb2156e.json",
+					"name" : "SekExample_qmltyperegistration",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SekExample_tooling::@358d8db68dd7622887b4",
+					"jsonFile" : "target-SekExample_tooling-Debug-c84ebb04b55042bdbb03.json",
+					"name" : "SekExample_tooling",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint::@358d8db68dd7622887b4",
+					"jsonFile" : "target-all_qmllint-Debug-21d16426b5f2285dc3dc.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_json::@358d8db68dd7622887b4",
+					"jsonFile" : "target-all_qmllint_json-Debug-0cc19939bcb4273791fb.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmllint_module::@358d8db68dd7622887b4",
+					"jsonFile" : "target-all_qmllint_module-Debug-2633d8d6cb6b3b6419b6.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "all_qmltyperegistrations::@358d8db68dd7622887b4",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-741120348a8dade2ceff.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro-Debug-64f47eb662e83d6373fa.json",
+					"name" : "sekiro",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_autogen::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_autogen-Debug-fdc258fcd3d24915bdf3.json",
+					"name" : "sekiro_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_autogen_timestamp_deps::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_autogen_timestamp_deps-Debug-13104589c046596effad.json",
+					"name" : "sekiro_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_qmllint::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_qmllint-Debug-d5d012272c5bdd3f5804.json",
+					"name" : "sekiro_qmllint",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_qmllint_json::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_qmllint_json-Debug-d889ef8e2a4a68e5fb40.json",
+					"name" : "sekiro_qmllint_json",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_qmllint_module::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_qmllint_module-Debug-697ba3809ed436b03b35.json",
+					"name" : "sekiro_qmllint_module",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_qmltyperegistration::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_qmltyperegistration-Debug-18534cd659d241ed8549.json",
+					"name" : "sekiro_qmltyperegistration",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sekiro_tooling::@3699fcf18bae36d76d42",
+					"jsonFile" : "target-sekiro_tooling-Debug-6134d39afaae63151015.json",
+					"name" : "sekiro_tooling",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

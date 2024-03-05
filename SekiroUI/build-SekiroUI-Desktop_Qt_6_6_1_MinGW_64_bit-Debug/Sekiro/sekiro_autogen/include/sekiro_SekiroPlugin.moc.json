@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "SekiroPlugin",
+            "object": true,
+            "qualifiedClassName": "SekiroPlugin",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQmlEngineExtensionPlugin"
+                }
+            ]
+        }
+    ],
+    "inputFile": "sekiro_SekiroPlugin.cpp",
+    "outputRevision": 68
+}

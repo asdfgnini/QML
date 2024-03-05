@@ -1,0 +1,9 @@
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo01.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo01_qmlimportscan.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo01_autogen_timestamp_deps.dir
+C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/CMakeFiles/demo01_autogen.dir

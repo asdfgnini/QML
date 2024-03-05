@@ -57,8 +57,8 @@ Button {
             }
             return hovered ? hoverColor :normalColor
         }
-        FluIcon{
-            iconSource:FluentIcons.ChevronDown
+        SekIcon{
+            iconSource:SekentIcons.ChevronDown
             iconSize: 15
             anchors{
                 right: parent.right
@@ -68,7 +68,7 @@ Button {
             iconColor:title.color
         }
     }
-    contentItem: FluText {
+    contentItem: SekText {
         id:title
         text: control.text
         verticalAlignment: Text.AlignVCenter
@@ -88,7 +88,7 @@ Button {
             menu.open()
         }
     }
-    FluMenu{
+    SekMenu{
         id:menu
         modal:true
         width: control.width

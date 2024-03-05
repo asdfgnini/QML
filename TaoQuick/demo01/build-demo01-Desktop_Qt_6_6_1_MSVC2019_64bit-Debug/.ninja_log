@@ -1,0 +1,22 @@
+# ninja log v5
+5	85	7308048325037919	.qt_plugins/Qt6_QmlPlugins_Imports_demo01.cmake	9379d841f827e054
+5	85	7308048325037919	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_demo01.cmake	9379d841f827e054
+85	226	7308048325944343	demo01_autogen/timestamp	bfe34d8ea91677ce
+85	226	7308048325944343	demo01_autogen/mocs_compilation.cpp	bfe34d8ea91677ce
+85	226	7308048325944343	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/timestamp	bfe34d8ea91677ce
+85	226	7308048325944343	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/mocs_compilation.cpp	bfe34d8ea91677ce
+226	290	7308048327093884	demo01_autogen/EWIEGA46WW/qrc_qml.cpp	dfb852c6de012cfa
+226	290	7308048327093884	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/EWIEGA46WW/qrc_qml.cpp	dfb852c6de012cfa
+290	318	7308048327400882	CMakeFiles/demo01.dir/demo01_autogen/mocs_compilation.cpp.obj	d4d53eb6391a613e
+296	322	7308048327435905	CMakeFiles/demo01.dir/demo01_autogen/EWIEGA46WW/qrc_qml.cpp.obj	52a6b1fb800e0a7b
+293	1112	7308048335314512	CMakeFiles/demo01.dir/main.cpp.obj	d787a8d6a8ae4552
+1113	1551	7308048339573442	demo01.exe	95bf56608a5b21b5
+6	149	7308049925246565	demo01_autogen/timestamp	bfe34d8ea91677ce
+6	149	7308049925246565	demo01_autogen/mocs_compilation.cpp	bfe34d8ea91677ce
+6	149	7308049925246565	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/timestamp	bfe34d8ea91677ce
+6	149	7308049925246565	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/mocs_compilation.cpp	bfe34d8ea91677ce
+151	208	7308049925817341	demo01_autogen/EWIEGA46WW/qrc_qml.cpp	dfb852c6de012cfa
+151	208	7308049925817341	C:/Users/22231/Desktop/QML/TaoQuick/demo01/build-demo01-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/demo01_autogen/EWIEGA46WW/qrc_qml.cpp	dfb852c6de012cfa
+211	239	7308049926142637	CMakeFiles/demo01.dir/demo01_autogen/EWIEGA46WW/qrc_qml.cpp.obj	52a6b1fb800e0a7b
+208	1015	7308049933868878	CMakeFiles/demo01.dir/main.cpp.obj	d787a8d6a8ae4552
+1016	1213	7308049935509059	demo01.exe	95bf56608a5b21b5

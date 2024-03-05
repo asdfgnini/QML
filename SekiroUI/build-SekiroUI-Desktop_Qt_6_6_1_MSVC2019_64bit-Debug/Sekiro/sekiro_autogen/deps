@@ -14,6 +14,8 @@ sekiro_autogen/timestamp: \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/SekTheme.h \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/SekTools.cpp \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/SekTools.h \
+	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/SekViewModel.cpp \
+	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/SekViewModel.h \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/main.cpp \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/sekiro.cpp \
 	C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/sekiro.h \
@@ -231,6 +233,7 @@ sekiro_autogen/timestamp: \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtNetwork/qtnetwork-config.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtNetwork/qtnetworkexports.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtNetwork/qtnetworkglobal.h \
+	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/QQmlProperty \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qjsvalue.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqml.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlcomponent.h \
@@ -242,6 +245,7 @@ sekiro_autogen/timestamp: \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmllist.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlparserstatus.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlprivate.h \
+	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlproperty.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlpropertyvaluesource.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qqmlregistration.h \
 	G:/ruanjian/Qt/6.6.1/msvc2019_64/include/QtQml/qtqml-config.h \

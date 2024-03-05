@@ -1,17 +1,38 @@
 <RCC>
   <qresource prefix="/qt/qml/Sekiro/">
+    <file alias="Qt6/SekArea.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekArea.qml</file>
+    <file alias="Qt6/SekAutoSuggestBox.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekAutoSuggestBox.qml</file>
     <file alias="Qt6/SekClip.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekClip.qml</file>
+    <file alias="Qt6/SekControl.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekControl.qml</file>
+    <file alias="Qt6/SekCopyableText.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekCopyableText.qml</file>
     <file alias="Qt6/SekDropDownButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekDropDownButton.qml</file>
     <file alias="Qt6/SekFocusRectangle.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekFocusRectangle.qml</file>
     <file alias="Qt6/SekIcon.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekIcon.qml</file>
+    <file alias="Qt6/SekIconButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekIconButton.qml</file>
+    <file alias="Qt6/SekLoader.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekLoader.qml</file>
     <file alias="Qt6/SekLoadingButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekLoadingButton.qml</file>
+    <file alias="Qt6/SekMenu.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekMenu.qml</file>
+    <file alias="Qt6/SekMenuItem.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekMenuItem.qml</file>
+    <file alias="Qt6/SekMultilineTextBox.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekMultilineTextBox.qml</file>
+    <file alias="Qt6/SekPasswordBox.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekPasswordBox.qml</file>
     <file alias="Qt6/SekProgressButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekProgressButton.qml</file>
     <file alias="Qt6/SekProgressRing.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekProgressRing.qml</file>
+    <file alias="Qt6/SekRadioButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekRadioButton.qml</file>
+    <file alias="Qt6/SekRadioButtons.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekRadioButtons.qml</file>
+    <file alias="Qt6/SekScrollBar.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekScrollBar.qml</file>
+    <file alias="Qt6/SekShadow.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekShadow.qml</file>
+    <file alias="Qt6/SekSpinBox.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekSpinBox.qml</file>
     <file alias="Qt6/SekText.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekText.qml</file>
+    <file alias="Qt6/SekTextBox.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTextBox.qml</file>
+    <file alias="Qt6/SekTextBoxBackground.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTextBoxBackground.qml</file>
+    <file alias="Qt6/SekTextBoxMenu.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTextBoxMenu.qml</file>
     <file alias="Qt6/SekTextButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTextButton.qml</file>
     <file alias="Qt6/SekToggleButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekToggleButton.qml</file>
+    <file alias="Qt6/SekToggleSwitch.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekToggleSwitch.qml</file>
+    <file alias="Qt6/SekTooltip.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekTooltip.qml</file>
     <file alias="Qt6/SekiroButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekiroButton.qml</file>
     <file alias="Qt6/SekiroControls.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/SekiroControls.qml</file>
+    <file alias="Qt6/ViewModel/TextBoxViewModel.qml">C:/Users/22231/Desktop/QML/SekiroUI/SekiroUI/Sekiro/Qt6/ViewModel/TextBoxViewModel.qml</file>
   </qresource>
 </RCC>
 
