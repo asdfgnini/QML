@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/Sekiro/">
+    <file alias="QML/SekButton.qml">C:/Users/22231/Desktop/QML/SekiroUI/Sekiro/QML/SekButton.qml</file>
+    <file alias="QML/SekFocusRectangle.qml">C:/Users/22231/Desktop/QML/SekiroUI/Sekiro/QML/SekFocusRectangle.qml</file>
+    <file alias="QML/SekText.qml">C:/Users/22231/Desktop/QML/SekiroUI/Sekiro/QML/SekText.qml</file>
+  </qresource>
+</RCC>
+

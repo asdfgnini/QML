@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/ExampleProjectApp/">
+    <file alias="example/example.qml">C:/Users/22231/Desktop/QML/SekiroUI/Sekiro/example/example.qml</file>
+    <file alias="QML/SekWindow.qml">C:/Users/22231/Desktop/QML/SekiroUI/Sekiro/QML/SekWindow.qml</file>
+  </qresource>
+</RCC>
+

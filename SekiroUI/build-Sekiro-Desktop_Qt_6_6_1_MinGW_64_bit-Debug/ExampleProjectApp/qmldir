@@ -1,0 +1,5 @@
+module ExampleProjectApp
+typeinfo ExampleProject.qmltypes
+prefer :/ExampleProjectApp/
+SekWindow 1.0 QML/SekWindow.qml
+

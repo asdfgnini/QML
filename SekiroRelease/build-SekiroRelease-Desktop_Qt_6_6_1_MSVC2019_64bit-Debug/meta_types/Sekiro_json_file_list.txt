@@ -1,8 +1,0 @@
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_Def.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekColorSet.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekColors.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekRectangle.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekTextStyle.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekTheme.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_SekTools.cpp.json
-C:/Users/22231/Desktop/QML/SekiroRelease/build-SekiroRelease-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Sekiro_autogen/include/../EWIEGA46WW/moc_sekiro.cpp.json

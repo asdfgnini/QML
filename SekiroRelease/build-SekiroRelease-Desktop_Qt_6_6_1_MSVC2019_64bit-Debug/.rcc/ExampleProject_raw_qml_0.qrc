@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/ExampleProjectApp/">
-    <file alias="example/example.qml">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/example/example.qml</file>
-    <file alias="Font/Segoe_Fluent_Icons.ttf">C:/Users/22231/Desktop/QML/SekiroRelease/SekiroRelease/Qt6/Font/Segoe_Fluent_Icons.ttf</file>
-  </qresource>
-</RCC>
-

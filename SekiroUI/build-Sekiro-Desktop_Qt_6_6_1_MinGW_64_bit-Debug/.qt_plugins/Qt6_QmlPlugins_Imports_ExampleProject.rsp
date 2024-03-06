@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/22231/Desktop/QML/SekiroUI/Sekiro
+-cmake-output
+-output-file
+C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_ExampleProject.cmake
+-importPath
+C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/ExampleProjectApp
+-importPath
+C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug
+-importPath
+G:/ruanjian/Qt/6.6.1/mingw_64/./qml
+-qrcFiles
+C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmake_ExampleProjectApp.qrc
+C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/ExampleProject_raw_qml_0.qrc

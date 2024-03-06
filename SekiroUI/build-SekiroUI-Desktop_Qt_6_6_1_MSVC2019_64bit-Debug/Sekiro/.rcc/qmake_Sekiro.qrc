@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Sekiro">
-    <file alias="qmldir">C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Example/Sekiro/qmldir</file>
-  </qresource>
-</RCC>
-

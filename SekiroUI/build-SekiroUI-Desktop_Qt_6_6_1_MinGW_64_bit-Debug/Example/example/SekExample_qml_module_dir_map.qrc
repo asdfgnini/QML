@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/example">C:/Users/22231/Desktop/QML/SekiroUI/build-SekiroUI-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Example/example</file>
-
-  </qresource>
-</RCC>

@@ -1,9 +1,0 @@
-module Sekiro
-Circle 1.0 QML/Circle.qml
-GlobalConfig 1.0 	QML/GlobalConfig.qml
-TDragRect 1.0 QML/TDragRect.qml
-TMoveArea 1.0 QML/TMoveArea.qml
-TResizeBorder 1.0 QML/TResizeBorder.qml
-TTextBtn 1.0 	QML/TTextBtn.qml
-
-

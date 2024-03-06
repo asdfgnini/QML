@@ -1,0 +1,859 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libSekiro.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"set_source_files_properties",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"G:/ruanjian/Qt/6.6.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"G:/ruanjian/Qt/6.6.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"G:/ruanjian/Qt/6.6.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:715:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2377,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2281,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2355,
+				"parent" : 3
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 716,
+				"parent" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 633,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2324,
+				"parent" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 392,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 540,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2635,
+				"parent" : 12
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 2660,
+				"parent" : 12
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 2465,
+				"parent" : 12
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 1172,
+				"parent" : 15
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2626,
+				"parent" : 12
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 2650,
+				"parent" : 12
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 623,
+				"parent" : 6
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2107,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2260,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2107,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2260,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2107,
+				"parent" : 7
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 2260,
+				"parent" : 7
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 16,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 26
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 740,
+				"parent" : 27
+			},
+			{
+				"command" : 12,
+				"file" : 0,
+				"line" : 1835,
+				"parent" : 28
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro_autogen/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/22231/Desktop/QML/SekiroUI/Sekiro"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml/6.6.1"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml/6.6.1/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore/6.6.1"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore/6.6.1/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtOpenGL"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				3,
+				5,
+				7,
+				9,
+				11,
+				16,
+				18,
+				20
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-Wa,-mbig-obj"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro_autogen/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/22231/Desktop/QML/SekiroUI/Sekiro"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml/6.6.1"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml/6.6.1/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore/6.6.1"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore/6.6.1/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 14,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQuick"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/include/QtOpenGL"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 8,
+			"id" : "Sekiro_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Sekiro_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Sekiro_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "Sekiro::@6890427a1f51a3e7e1df",
+	"name" : "Sekiro",
+	"nameOnDisk" : "libSekiro.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				5,
+				7,
+				9,
+				11,
+				16,
+				18,
+				20
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				15,
+				17,
+				19,
+				21,
+				22,
+				23,
+				24,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				4,
+				6,
+				8,
+				10,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 16,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/qt6sekiro_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 17,
+			"compileGroupIndex" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sekiro_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"path" : "Def.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"path" : "Def.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"path" : "SekColors.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"path" : "SekColors.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"path" : "SekColorSet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"path" : "SekColorSet.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"path" : "SekTextStyle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"path" : "SekTextStyle.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"path" : "SekTheme.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"path" : "SekTheme.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"path" : "singleton.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 19,
+			"path" : "stdafx.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 20,
+			"path" : "QML/SekButton.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 21,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekButton_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 22,
+			"path" : "QML/SekFocusRectangle.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 23,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekFocusRectangle_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"path" : "QML/SekText.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 25,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekText_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 29,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmake_Sekiro.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro/qmldir",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/Sekiro_raw_qml_0.qrc",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/qt6sekiro_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sekiro_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekButton_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekFocusRectangle_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/Sekiro_QML/SekText_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/Sekiro_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/22231/Desktop/QML/SekiroUI/build-Sekiro-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/Sekiro_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 9,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 9,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 9,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 10,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6quick_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 10,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6gui_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 10,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6qmlmodels_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 10,
+			"path" : "G:/ruanjian/Qt/6.6.1/mingw_64/metatypes/qt6opengl_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

@@ -1,0 +1,23 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Sekrio",
+            "object": true,
+            "qualifiedClassName": "Sekrio",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickPaintedItem"
+                }
+            ]
+        }
+    ],
+    "inputFile": "sekrio.h",
+    "outputRevision": 68
+}
